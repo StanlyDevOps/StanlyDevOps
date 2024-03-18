@@ -20,6 +20,8 @@
 
 ### I write code 🤖 and create bugs 🐛 with:
 
+---
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Logo" style="width:40px; height:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS Logo" style="width:40px; height:40px;">
