@@ -3,14 +3,8 @@
   <a href="asespinosa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=microsoft-outlook&label=&color=e84c44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ASEUdev.ASEUdev&"  />
 </div>
----
 
 # Hi there, I'm Alejandro Espinosa 👋
 
