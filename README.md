@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on Business Management Platform  
 🌱 I’m currently learning Microservices  
-💭 Ask me about Node and Laravel
+💭 Ask me about Node and SpringBoot
 
 
 
