@@ -12,9 +12,9 @@
 
 ### 👩‍💻  About Me
 
-🔭 I’m currently working on Business Management Platform  
-🌱 I’m currently learning Microservices  
-💭 Ask me about Node and SpringBoot
+🔭 I’m currently working on electoral system.
+🌱 I’m currently learning Microservices.
+💭 Ask me about Node and SpringBoot.
 
 
 
