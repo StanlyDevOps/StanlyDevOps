@@ -12,10 +12,9 @@
 
 ### 👩‍💻  About Me
 
-🔭 I’m currently working on electoral system.
-🌱 I’m currently learning Microservices.
-💭 Ask me about Node and SpringBoot.
-
+🔭 I’m currently developing an election system  
+🌱 I’m currently learning CI/CD  
+💭 Ask me about Node and SpringBoot
 
 
 ### I write code 🤖 and create bugs 🐛 with:
