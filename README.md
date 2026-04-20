@@ -12,9 +12,9 @@
 
 ### 👩‍💻  About Me
 
-🔭 I’m currently developing an election system  
-🌱 I’m currently learning CI/CD  
-💭 Ask me about Node and SpringBoot
+🔭 Building an Invitation System (scalable backend architecture)
+🌱 Exploring cloud deployments with DigitalOcean
+💭 Backend development: NestJS & Spring Boot
 
 
 ### I write code 🤖 and create bugs 🐛 with:
