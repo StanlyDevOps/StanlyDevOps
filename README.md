@@ -80,5 +80,5 @@ philosophy: "Make it work. Make it right. Make it fast."
 ---
 
 <div align="center">
-<sub>// building things that scale · breaking things that shouldn't · fixing things before anyone notices</sub>
+<sub> building things that scale · breaking things that shouldn't · fixing things before anyone notices</sub>
 </div>
